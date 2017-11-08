@@ -5,7 +5,7 @@ import Component from 'vue-class-component';
     template: require('./index.html')
 })
 
-export class FormControl extends Vue{
+export class FormControl extends Vue {
 }
 
 
